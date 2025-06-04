@@ -15,3 +15,22 @@
 
 
 </details>
+
+### Design Cycle
+<img src="design_cycle.png" alt="design cycle" width="300" height="300">
+
+###### Include commentary on your experience with the design cycle during this project
+
+---
+
+### Code to Highlight
+
+
+---
+
+### Choose At Least Three of the Following to Include:
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+- What makes your project stand out?
