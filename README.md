@@ -12,7 +12,7 @@
 
 <details>
 <summary><strong>Inspiration for the Project</strong></summary>
-
+-Seeing another robot doing something cool
 
 </details>
 
