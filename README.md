@@ -28,4 +28,6 @@
 
 ---
 
-The task was to code the robot to do whatever it was told to do
+My motivation for the project was that I wanted to make the robot do what I told it to do.
+
+I built this project because
